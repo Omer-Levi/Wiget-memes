@@ -30,7 +30,7 @@ console.log(length);
 
 function displayImage(){
     let display = `<div>        
-        <img src=${url_arr[index]} alt="" width="300" height="300">
+        <img src=${url_arr[index]} alt="" width="300">
         <h5 class="text-light">${name_memes[index]}</h5> </div>`
     let click = `<div> <a href="#" onclick="lastOne();" class="btn btn-primary">beck</a> <a href="#" onclick="plusOne();" class="btn btn-primary">next</a> </div>`
     imageDiv.innerHTML = display;
