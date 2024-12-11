@@ -29,6 +29,6 @@ This project is a simple Meme Viewer widget that displays 100 of the best memes 
    - Manages the display of memes and navigation functionality.
    - Updates the HTML dynamically with the meme image and name.
 
-<p align="center">
-<a href='https://postimages.org/' target='_blank'><img src='/Images/image.png' border='0' alt='image' width="600"/></a>
-</p>
+   <p align="center">
+   <a href='https://postimages.org/' target='_blank'><img src='./imeges/image.png' border='0' alt='image' width="600"/></a>
+   </p>
